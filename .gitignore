@@ -1,0 +1,6 @@
+# Ignore everything in the root
+/*
+# individually unignore stuff
+!.gitignore
+!LICENSE
+!README.md
